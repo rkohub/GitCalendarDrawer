@@ -1,0 +1,1 @@
+cd \git\GitTest && python GetDate.py
