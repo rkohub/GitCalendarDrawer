@@ -1,1 +1,1 @@
-cd \git\GitTest && python GetDate.py
+cd \git\GitTest && python GetDate.py && git add Dates.txt && git commit -m "The Next Date" Dates.txt && git push -u origin master
